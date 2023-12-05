@@ -1,0 +1,15 @@
+/home/denis/RiderProjects/Antivirus/Antivirus_util/obj/Debug/net7.0/Antivirus_util.csproj.AssemblyReference.cache
+/home/denis/RiderProjects/Antivirus/Antivirus_util/obj/Debug/net7.0/Antivirus_util.GeneratedMSBuildEditorConfig.editorconfig
+/home/denis/RiderProjects/Antivirus/Antivirus_util/obj/Debug/net7.0/Antivirus_util.AssemblyInfoInputs.cache
+/home/denis/RiderProjects/Antivirus/Antivirus_util/obj/Debug/net7.0/Antivirus_util.AssemblyInfo.cs
+/home/denis/RiderProjects/Antivirus/Antivirus_util/obj/Debug/net7.0/Antivirus_util.csproj.CoreCompileInputs.cache
+/home/denis/RiderProjects/Antivirus/Antivirus_util/bin/Debug/net7.0/Antivirus_util
+/home/denis/RiderProjects/Antivirus/Antivirus_util/bin/Debug/net7.0/Antivirus_util.deps.json
+/home/denis/RiderProjects/Antivirus/Antivirus_util/bin/Debug/net7.0/Antivirus_util.runtimeconfig.json
+/home/denis/RiderProjects/Antivirus/Antivirus_util/bin/Debug/net7.0/Antivirus_util.dll
+/home/denis/RiderProjects/Antivirus/Antivirus_util/bin/Debug/net7.0/Antivirus_util.pdb
+/home/denis/RiderProjects/Antivirus/Antivirus_util/obj/Debug/net7.0/Antivirus_util.dll
+/home/denis/RiderProjects/Antivirus/Antivirus_util/obj/Debug/net7.0/refint/Antivirus_util.dll
+/home/denis/RiderProjects/Antivirus/Antivirus_util/obj/Debug/net7.0/Antivirus_util.pdb
+/home/denis/RiderProjects/Antivirus/Antivirus_util/obj/Debug/net7.0/Antivirus_util.genruntimeconfig.cache
+/home/denis/RiderProjects/Antivirus/Antivirus_util/obj/Debug/net7.0/ref/Antivirus_util.dll

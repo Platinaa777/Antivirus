@@ -1,0 +1,8 @@
+
+Antivirus_api/bin/Debug/net7.0/*
+Antivirus_api/obj/Debug/net7.0/*
+*.exe
+*.dll
+*.pdb
+.git/*
+.idea/*

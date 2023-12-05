@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antivirus_api", "Antivirus_api\Antivirus_api.csproj", "{A123C35A-ACB1-42BD-9537-2CDF9CAC0F36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antivirus_util", "Antivirus_util\Antivirus_util.csproj", "{94A67824-F0F9-4F95-8BC2-34B1C4640293}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A123C35A-ACB1-42BD-9537-2CDF9CAC0F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A123C35A-ACB1-42BD-9537-2CDF9CAC0F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A123C35A-ACB1-42BD-9537-2CDF9CAC0F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A123C35A-ACB1-42BD-9537-2CDF9CAC0F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94A67824-F0F9-4F95-8BC2-34B1C4640293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A67824-F0F9-4F95-8BC2-34B1C4640293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A67824-F0F9-4F95-8BC2-34B1C4640293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A67824-F0F9-4F95-8BC2-34B1C4640293}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
